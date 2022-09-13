@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Arrival System</string>
+    <string name="str_para">Para:</string>
+    <string name="str_mensaje">Escribir mensaje:</string>
+    <string name="str_enviar">Enviar</string>
+    <string name="enviar_llegada">enviar llegada</string>
+    <string name="llegada_a_base_cd_victoria">LLEGADA A BASE - CD VICTORIA -</string>
+    <string name="dia">dia</string>
+    <string name="regresar">REGRESAR</string>
+    <string name="id_empleado">id empleado</string>
+    <string name="lista_semanal">lista semanal</string>
+    <string name="hora">hora</string>
+    <string name="llegar">llegar</string>
+</resources>
